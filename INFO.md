@@ -6,6 +6,7 @@ vim <название файла> - изменение трех файлов.
 git checkout main
 git pull - слила обновления
 git diff - какие изменения
+git commit "имя файло которые изменяла"
 git push origin main
 
 
